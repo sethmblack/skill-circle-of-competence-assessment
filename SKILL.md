@@ -1,10 +1,9 @@
 ---
 name: circle-of-competence-assessment
-description: Evaluate whether an opportunity, decision, or investment falls within
-  your area of genuine understanding—and guide appropriate action based on that assessment.
+description: Evaluate whether an opportunity, decision, or investment falls within your area of genuine understanding—and guide appropriate action based on that assessment.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - circle-of-competence-assessment
