@@ -4,7 +4,7 @@ description: Evaluate whether an opportunity, decision, or investment falls with
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3593
+  version: 1.0.3594
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - circle-of-competence-assessment
